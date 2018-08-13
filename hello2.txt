@@ -1,3 +1,7 @@
 created test repo
 added second line
+<<<<<<< HEAD
 adding third line from local editor
+=======
+adding third line from cloud
+>>>>>>> 6f911cedf5e9daaddb9fecaa920f303a540c072d
